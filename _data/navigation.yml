@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /
+  - title: "Updates"
+    url: /
+  - title: "Related Courses"
+    url: /courses
+  - title: "Contact"
+    url: /
+
+
+  
+  
